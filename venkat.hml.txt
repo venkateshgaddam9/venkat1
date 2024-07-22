@@ -1,0 +1,31 @@
+<html>
+<center>
+<head>
+<title>Online Shopping</title>
+</head>
+<h1>
+meesho
+<h1>
+<body>
+<a href="https://www.meesho.com">Meesho</a>
+<img src="https://bookface-images.s3.amazonaws.com/logos/55f65e74439c3542451db4aea92332fa3edd7bca.png">
+<h1>
+swiggy
+</h1>
+<a href="https://www.swiggy.com">swiggy</a>
+<img src="https://entrackr.com/storage/2022/02/Swiggy-img.jpg">
+<h1>
+flipkart
+<h1>
+<a href="https://www.flipkart.com">flipkart</a>
+<img src="https://www.91-cdn.com/hub/wp-content/uploads/2023/09/flipkart-price-lock.jpg">
+</center>
+<body>
+<html>
+
+
+
+
+
+
+
